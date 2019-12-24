@@ -19,4 +19,6 @@
 - Capacitive Soil Moisture Sensor v1.2 for measuring soil moisture and feeding data
 ![Sensor](https://cdn.shopify.com/s/files/1/0069/6513/3376/products/5pcs-Capacitive-Soil-Sensor-Module-Soil-Moisture-Detection-Sensor-Analog-Output-DIY-Electronic-for-Arduino_1.jpg?v=1557471842)
 - Water pump for watering the soil
+![Pump](https://1436477554.rsc.cdn77.org/wp-content/uploads/2018/06/2PCs-Mini-Water-Pump-3V-0.5W-Tube-02-640x444.jpg)
 - NodeMCU Wi-Fi module for connection with server
+![Pump](https://www.cytron.io/image/cache/catalog/products/NODEMCU-V3/NodeMCU%20V3%20Lolin%20(1)-0-1-1-800x800.jpg)
