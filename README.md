@@ -15,6 +15,7 @@
 - STM32F411EDISCOVERY
 ![STM32F411EDISCOVERY](https://media.digikey.com/Photos/STMicro%20Photos/STM32F411E-DISCO.JPG)
 - ULN2003A High-Current Darlington Transistor Arrays to properly power the water pump
+![ULN2003A](https://botland.com.pl/61583-large_default/integrated-circuit-uln2003a-7xdarlington-smd.jpg)
 - Capacitive Soil Moisture Sensor v1.2 for measuring soil moisture and feeding data
 - Water pump for watering the soil
 - NodeMCU Wi-Fi module for connection with server
