@@ -17,6 +17,6 @@
 - ULN2003A High-Current Darlington Transistor Arrays to properly power the water pump
 ![ULN2003A](https://botland.com.pl/61583-large_default/integrated-circuit-uln2003a-7xdarlington-smd.jpg)
 - Capacitive Soil Moisture Sensor v1.2 for measuring soil moisture and feeding data
-![Sensor](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjq3OCa9M7mAhX2zcQBHQfWDCYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.ebay.com%2Fp%2F14021158393&psig=AOvVaw3wB490YyPo_IbE72ocdGBB&ust=1577298302770124)
+![Sensor](https://cdn.shopify.com/s/files/1/0069/6513/3376/products/5pcs-Capacitive-Soil-Sensor-Module-Soil-Moisture-Detection-Sensor-Analog-Output-DIY-Electronic-for-Arduino_1.jpg?v=1557471842)
 - Water pump for watering the soil
 - NodeMCU Wi-Fi module for connection with server
