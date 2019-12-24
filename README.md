@@ -22,3 +22,5 @@
 ![Pump](https://1436477554.rsc.cdn77.org/wp-content/uploads/2018/06/2PCs-Mini-Water-Pump-3V-0.5W-Tube-02-640x444.jpg)
 - NodeMCU Wi-Fi module for connection with server
 ![Pump](https://www.cytron.io/image/cache/catalog/products/NODEMCU-V3/NodeMCU%20V3%20Lolin%20(1)-0-1-1-800x800.jpg)
+- Fotoresistor to check if current brightes around is enough for our plant.
+![Pump](https://cdn.awsli.com.br/600x700/468/468162/produto/19414320/sensor-fotoresistor-ldr-de-5mm-6344c5f4.jpg)
