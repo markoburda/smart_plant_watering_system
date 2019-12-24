@@ -13,7 +13,7 @@
 
 ## Materials used for the project:
 - STM32F411EDISCOVERY
-!(https://media.digikey.com/Photos/STMicro%20Photos/STM32F411E-DISCO.JPG)
+![STM32F411EDISCOVERY](https://media.digikey.com/Photos/STMicro%20Photos/STM32F411E-DISCO.JPG)
 - ULN2003A High-Current Darlington Transistor Arrays to properly power the water pump
 - Capacitive Soil Moisture Sensor v1.2 for measuring soil moisture and feeding data
 - Water pump for watering the soil
