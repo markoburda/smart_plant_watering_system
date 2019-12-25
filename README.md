@@ -26,4 +26,4 @@
 ![Pump](https://cdn.awsli.com.br/600x700/468/468162/produto/19414320/sensor-fotoresistor-ldr-de-5mm-6344c5f4.jpg)
 
 ## Circuit Diagram:
-![Diagram](https://imgur.com/a/psVSAq7)
+![Diagram](https://i.imgur.com/CAKITe5.jpg)
